@@ -1,6 +1,6 @@
 # 🚀 Data Structures & Algorithms (DSA) Learning
 
-Welcome to my **DSA Learning** repository! 👋
+Welcome to my **DSA Practice** repository! 👋
 
 This repository contains my solutions to **LeetCode** problems as I strengthen my problem-solving skills and prepare for software engineering interviews.
 
